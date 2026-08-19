@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0303-range-sum-query-immutable](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## Design
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 ## String
 |  |
 | ------- |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
