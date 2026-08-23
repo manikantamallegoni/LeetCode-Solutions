@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0303-range-sum-query-immutable](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
