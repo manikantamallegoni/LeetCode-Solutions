@@ -11,6 +11,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
