@@ -76,4 +76,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
