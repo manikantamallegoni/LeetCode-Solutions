@@ -14,6 +14,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Design
@@ -49,6 +50,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
