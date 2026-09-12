@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
