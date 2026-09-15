@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0152-maximum-product-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
