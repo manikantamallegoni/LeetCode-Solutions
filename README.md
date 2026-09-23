@@ -15,6 +15,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -33,6 +34,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
@@ -55,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -80,6 +83,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +96,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
