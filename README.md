@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -85,6 +86,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
