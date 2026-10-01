@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -134,9 +135,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
