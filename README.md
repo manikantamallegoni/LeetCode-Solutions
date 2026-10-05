@@ -47,6 +47,7 @@
 | [0022-generate-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -145,6 +146,7 @@
 | [0020-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@
 | [0022-generate-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
