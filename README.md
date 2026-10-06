@@ -48,6 +48,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
@@ -147,6 +149,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -160,6 +163,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
