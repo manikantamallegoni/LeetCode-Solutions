@@ -19,6 +19,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -136,6 +137,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
