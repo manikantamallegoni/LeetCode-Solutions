@@ -24,6 +24,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2942-find-words-containing-character](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -61,6 +62,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
