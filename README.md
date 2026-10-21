@@ -65,6 +65,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
