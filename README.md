@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -73,6 +74,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0078-subsets) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
