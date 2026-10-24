@@ -66,6 +66,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -106,6 +107,7 @@
 | [0007-reverse-integer](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
