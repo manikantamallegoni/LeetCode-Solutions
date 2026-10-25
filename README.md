@@ -16,6 +16,7 @@
 | [0875-koko-eating-bananas](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1254-number-of-closed-islands](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1310-xor-queries-of-a-subarray](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -152,6 +153,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -238,4 +241,12 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/manikantamallegoni/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
